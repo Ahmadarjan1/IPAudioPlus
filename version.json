@@ -1,7 +1,7 @@
 {
   "name": "IPAudioPlus",
-  "version": "1.0",
-  "date": "2026-09-18",
+  "version": "1.0.1",
+  "date": "2026-09-19",
   "description": "تحديث جديد لبلجن IPAudioPlus يتضمن ميزات وتحسينات جديدة",
   "changelog": [
     "إضافة خاصية الفحص والتحديث التلقائي مباشرة من GitHub",
